@@ -32,10 +32,10 @@ const int AUDIO_PIN = 26; // PWM audio output (connected to PAM8403)
 // ----- USER CONFIGURATION -----
 
 // Wifi network station credentials
-#define WIFI_SSID "Kika"
-#define WIFI_PASSWORD "EldenLord"
+#define WIFI_SSID "INSERT_WIFI_SSID"
+#define WIFI_PASSWORD "INSERT_WIFI_PASSWORD"
 // Telegram Bot Token
-#define BOT_TOKEN "7934798297:AAGVGZ7w-X_8yt4RygL-EkDNF7KqOP4nAo8"
+#define BOT_TOKEN "INSERT_BOT_TOKEN"
 
 
 // ----- Bio-impedence Reading -----
