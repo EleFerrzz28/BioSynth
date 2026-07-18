@@ -25,7 +25,7 @@
 #define SCREEN_HEIGHT 64
 
 const int BIO_SENSOR_PIN = 34; // ADC1 channel for bio-impedence reading
-const int AUDIO_PIN = 26; // PWM audio output (connected to PAM8403)
+const int AUDIO_PIN = 26; // PWM audio output
 
 // 3. GLOBAL VARIABLES AND CONSTANTS
 
