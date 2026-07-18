@@ -1,5 +1,5 @@
 # BioSynth
-Repository contenente il codice del progetto per il corso laboratorio di making. BioSynth è un traduttore di bioimpedenza delle piante in musica, con integrazione IoT. 
+Repository contenente il codice del progetto per il corso laboratorio di making e le istruzioni necessarie per riprodurlo. BioSynth è un traduttore di bioimpedenza delle piante in musica, con integrazione IoT. 
 
 # Istruzioni di Riproduzione
 Per consentire la corretta riproduzione del prototipo BioSynth, si riporta di seguito la procedura di assemblaggio e configurazione passo-passo. 
